@@ -43,11 +43,13 @@ I'm open to collaborating on projects related to automation, testing, and beyond
 
 ## 📈 GitHub Stats
 
-![Jubear-Jabber-Jetu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jubear-Jabber-Jetu&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dracula)
+![Jubear-Jabber-Jetu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jubear-Jabber-Jetu&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubear-Jabber-Jetu&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubear-Jabber-Jetu&layout=compact&theme=dracula)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jubear-Jabber-Jetu&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👀 Visitor Count
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Jubear-Jabber-Jetu.Jubear-Jabber-Jetu)
-
