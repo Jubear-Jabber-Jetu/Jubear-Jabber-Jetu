@@ -1,7 +1,6 @@
 # 👋 Hello, I'm [Jubear-Jabber-Jetu](https://github.com/Jubear-Jabber-Jetu) 
 
-![Profile Banner](https://media.licdn.com/dms/image/D5616AQH0y6V_xdCWwg/profile-displaybackgroundimage-shrink_200_800/0/1719350431073?e=2147483647&v=beta&t=cuasrKMWr-GMwNt6gvTBjXG0pjEMoo5Nwd5IGKJzmTY) <!-- Replace with a high-quality, personalized banner image URL -->
-
+![Profile Banner](https://www.linkedin.com/in/jubear-jabber-jetu-2aaa05159/overlay/background-image/) 
 ## 🌟 About Me
 
 I'm a **Test Automation Engineer** at **QUPS** and a current MSC student at **North South University**. I thrive on solving complex problems and creating efficient, automated solutions.
