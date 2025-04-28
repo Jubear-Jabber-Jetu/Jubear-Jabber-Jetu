@@ -1,10 +1,10 @@
-# Jubear Jabber Jetu | Senior QA Automation Engineer 🚀
+# Jubear Jabber Jetu | QA Automation Engineer 🚀
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm **Jubear Jabber Jetu**, a Senior QA Automation Engineer from **Jatrabari, Dhaka**. I build and optimize test solutions that drive product quality and reliability across web and mobile platforms. With expertise in end-to-end automation, CI/CD integration, and performance testing, I ensure seamless delivery of high-quality software.
+Hello! I'm **Jubear Jabber Jetu**, a QA Automation Engineer from **Jatrabari, Dhaka**. I build and optimize test solutions that drive product quality and reliability across web and mobile platforms. With expertise in end-to-end automation, CI/CD integration, and performance testing, I ensure seamless delivery of high-quality software.
 
 Beyond the code, I'm an open-source advocate, avid tech blogger, and tea enthusiast, always exploring the latest tools and methodologies to elevate QA practices.
 
@@ -53,8 +53,8 @@ Beyond the code, I'm an open-source advocate, avid tech blogger, and tea enthusi
 
 ## 🎓 Education & Certifications
 
-- **MSc, Computer Science** | North South University (2023 – Present)  
-- **BSc, Computer Science** | Daffodil International University (2018 – 2022)  
+- **MSc, Computer Science & Engineering** | North South University (2023 – Present)  
+- **BSc, Computer Science & Engineering** | Daffodil International University (2018 – 2022)  
 
 ---
 
