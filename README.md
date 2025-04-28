@@ -84,8 +84,8 @@ Leading key automation initiatives focused on:
 
 ## 🌍 Let's Connect!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
+- 📧 Email: [Peersonal Mail](mailto:jubearjabberjetu@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/jubear-jabber-jetu-2aaa05159](#)
 - 🧩 GitHub: [Your GitHub Profile](#)
 - 📢 Open for collaborations, tech talks, and mentoring opportunities!
 
