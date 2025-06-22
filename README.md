@@ -1,4 +1,4 @@
-# Jubear Jabber Jetu | QA Automation Engineer 🚀
+# Jubear Jabber Jetu | QA Automation Engineer 
 
 ---
 
