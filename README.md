@@ -1,72 +1,131 @@
-# Jubear Jabber Jetu | QA Automation Engineer 
+<!-- Profile Visitor Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Jubear-Jabber-Jetu&label=Profile+Views&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
+
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Jubear Jabber Jetu</h1>
+<h3 align="center">QA Engineer | Automation Enthusiast | Open Source Collaborator</h3>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-Hello! I'm **Jubear Jabber Jetu**, a QA Automation Engineer from **Jatrabari, Dhaka**. I build and optimize test solutions that drive product quality and reliability across web and mobile platforms. With expertise in end-to-end automation, CI/CD integration, and performance testing, I ensure seamless delivery of high-quality software.
-
-Beyond the code, I'm an open-source advocate, avid tech blogger, and tea enthusiast, always exploring the latest tools and methodologies to elevate QA practices.
-
-> **QA Mantra:**  
-> _"Quality isn’t a phase; it’s the foundation of every successful product."_
-
----
-
-## 🛠️ Technical Expertise
-
-- **Automation:** Cypress, Playwright, Selenium, Appium  
-- **API Testing:** Postman, REST Assured, GraphQL Testing  
-- **Performance:** JMeter, k6  
-- **CI/CD & DevOps:** Jenkins, GitHub Actions, GitLab CI, Docker, Kubernetes  
-- **Frameworks & Practices:** BDD (Cucumber), Visual Testing (Percy), TDD  
-- **Languages & Tools:** JavaScript, TypeScript, Python, Java, SQL, Git  
+- 🏢 **QA Engineer at ReCom** (2+ years)
+- 👤 Sole QA responsible for planning, execution, automation, and defect management
+- 🦾 Passionate about automation, AI-driven testing, and building robust QA processes
+- 🌱 Currently learning Cloud Computing (AWS, Azure, GCP) and Cybersecurity
+- 🎯 Love collaborating on open-source QA tools and automation frameworks
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Skills & Tools
 
-**QA Engineer, ReCom Consulting Ltd.**  
-*Feb 2025 – Present*  
-- Architected and maintained a cross-browser automation framework, reducing maintenance overhead by **40%**.  
-- Containerized test environments with Docker, cutting setup time from hours to minutes.  
-- Integrated security and performance checks into CI pipelines, improving release confidence.  
-- Mentored junior engineers, leading workshops on test automation best practices.
-
----
-
-## 🏆 Key Projects
-
-- **Enterprise Automation Suite:** Reduced regression cycles by **65%** with parallel test execution across 4 browsers.  
-- **CI/CD Overhaul:** Automated deployment pipelines for 15 microservices, achieving zero-downtime releases.  
-- **Load Testing:** Simulated **10,000+** concurrent users, identifying and resolving critical bottlenecks.  
-- **Cross-Platform Testing:** Delivered **98%** UI consistency on web and mobile through visual validations.
-
----
-
-## 📈 GitHub Highlights
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubear-Jabber-Jetu&layout=compact)](https://github.com/Jubear-Jabber-Jetu)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jubear-Jabber-Jetu&show_icons=true)](https://github.com/Jubear-Jabber-Jetu)
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <!-- QA Tools -->
+  <img src="https://img.shields.io/badge/Manual%20Testing-5A5A5A?style=for-the-badge" alt="Manual Testing"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft-playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <!-- Misc -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
 ---
 
-## 🎓 Education & Certifications
+## 🌟 Favorite Projects
 
-- **MSc, Computer Science & Engineering** | North South University (2023 – Present)  
-- **BSc, Computer Science & Engineering** | Daffodil International University (2018 – 2022)  
+<table>
+  <tr>
+    <td>
+      <b>Shonchalon</b><br>
+      <sub>Django + React | Auth, Dashboard</sub><br>
+      <a href="https://github.com/Jubear-Jabber-Jetu/shonchalon">🔗 View Project</a>
+    </td>
+    <td>
+      <b>AI Test Case Generator</b><br>
+      <sub>Python | AI-powered test cases</sub><br>
+      <a href="https://github.com/Jubear-Jabber-Jetu/ai-test-case-generator">🔗 View Project</a>
+    </td>
+    <td>
+      <b>Local Job Finder & CV Builder</b><br>
+      <sub>Job scraping, alerts, CV tools for BD youth</sub><br>
+      <a href="https://github.com/Jubear-Jabber-Jetu/local-job-finder-cv-builder">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌍 Connect with Me
+## 🤝 Connect with Me
 
-- 📧 [jubearjabberjetu@gmail.com](mailto:jubearjabberjetu@gmail.com)  
-- 🔗 LinkedIn: [jubear-jabber-jetu](https://www.linkedin.com/in/jubear-jabber-jetu-2aaa05159)  
-- 🧩 GitHub: [Jubear-Jabber-Jetu](https://github.com/Jubear-Jabber-Jetu)
+<p>
+  <a href="https://www.linkedin.com/in/jubearjabberjetu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Jubear-Jabber-Jetu">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## ✨ Why QA?
+## 💡 Fun Facts
 
-I believe meticulous testing transforms ideas into trustworthy products. Every bug discovered is progress; every automated script is a step toward efficiency. Let's collaborate and champion quality together! 🚀
+- 🔐 Exploring the world of cybersecurity and ethical hacking
+- ☁️ Cloud enthusiast: AWS, Azure, GCP
+- 🤖 Love building automation frameworks & tinkering with AI tools
+- ☕ Big fan of coffee-fueled debugging sessions
 
+---
+
+## 🎯 Custom Sections
+
+### 📚 Currently Learning
+- Cloud Computing (AWS, Azure, GCP)
+- Cybersecurity & DevSecOps
+
+### 🤝 Looking to Collaborate On
+- Open-source QA tools
+- AI-driven testing solutions
+- Automation frameworks
+
+### 💬 Ask Me About
+- Test Automation (Playwright, Selenium, Cypress)
+- Manual & API Testing (Postman)
+- CI/CD with GitHub Actions
+- QA Strategy & Best Practices
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jubear-Jabber-Jetu&show_icons=true&theme=default" alt="Jubear's Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jubear-Jabber-Jetu&theme=default" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubear-Jabber-Jetu&layout=compact&theme=default" alt="Top Languages" height="140"/>
+</p>
+
+---
+
+<details>
+<summary>✨ A Little More About Me!</summary>
+
+- 🧠 Always curious, always learning
+- 🏆 Believer in quality-first engineering
+- 🎨 Creativity meets engineering in my side projects
+- 🌏 Proudly building for the Bangladeshi tech ecosystem!
+
+</details>
