@@ -11,7 +11,7 @@
 ## 👤 About Me
 
 - 💼 **QA Engineer at ReCom**  
-  2+ years experience as the sole QA, handling test planning, execution, automation, and defect management.
+  3+ years experience as the sole QA, handling test planning, execution, automation, and defect management.
 - 🧑‍💻 **Open Source Advocate** | Tech Blogger | Avid Learner
 - 📍 Based in Jatrabari, Dhaka
 
