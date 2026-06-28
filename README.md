@@ -12,7 +12,7 @@
 
 ## Summary
 
-I deliver pragmatic, scalable test automation and quality engineering that shortens release cycles, reduces escaped defects, and makes development teams more confident. With 3+ years crafting frameworks, API suites, CI/CD integrations and quality strategy, I turn testing into a competitive advantage.
+I deliver pragmatic, scalable test automation and quality engineering that shortens release cycles, reduces escaped defects, and makes development teams more confident. With 3+ years crafting frameworks and leading quality initiatives, I specialize in building trust through intelligent test design, CI/CD-first orchestration, and data-driven insights.
 
 - Strengths: automation architecture, API & contract testing, CI/CD-first test orchestration, data-driven quality, mentoring and process improvement.
 - Outcomes-focused: I measure impact — faster verification, fewer regressions, and lower maintenance cost.
@@ -65,12 +65,37 @@ Tip: add real metrics — they make your impact undeniable.
 
 ## Technical Toolkit
 
-- Test Runners & Frameworks: Playwright, Cypress, Selenium, Playwright Test Runner, TestNG, JUnit
-- API & Contract: REST Assured, Postman, OpenAPI/Swagger, Pact
-- Languages: TypeScript, JavaScript (Node.js), Java, Python, SQL
-- CI/CD & Infra: Azure DevOps, GitHub Actions, Docker, Kubernetes (test infra)
-- Reporting & Observability: Allure, HTML/video reports, custom dashboards
-- Methodologies: BDD/ATDD, POM & Screenplay, data-driven testing, shift-left testing
+### Test Automation & Frameworks
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=for-the-badge&logo=java&logoColor=white)
+
+### Languages & Runtime
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+
+### API Testing & Tools
+![REST Assured](https://img.shields.io/badge/REST%20Assured-00D084?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapis&logoColor=white)
+![Pact](https://img.shields.io/badge/Pact-FF6B6B?style=for-the-badge&logoColor=white)
+
+### CI/CD & Infrastructure
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Reporting & Observability
+![Allure](https://img.shields.io/badge/Allure-85C1F2?style=for-the-badge&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Methodologies
+- **BDD/ATDD** | **POM & Screenplay Pattern** | **Data-Driven Testing** | **Shift-Left Testing**
 
 ---
 
@@ -104,14 +129,20 @@ Tip: add real metrics — they make your impact undeniable.
 
 ## Contact & Next Steps
 
-I’m always open to collaborations, mentoring, and engineering quality conversations. If you want, I can:
+I'm always open to collaborations, mentoring, and engineering quality conversations. If you want, I can:
 - Add real metrics and examples to the README
 - Add links to project repos or demo videos
 - Generate a concise one-page resume from this content
 
-- LinkedIn: https://linkedin.com/in/jubear-jabber-jetu-2aaa05159
-- Email: jubearjabberjetu@gmail.com
-- GitHub: https://github.com/Jubear-Jabber-Jetu
+<div align="center">
+
+### 📱 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubear-jabber-jetu-2aaa05159)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubearjabberjetu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jubear-Jabber-Jetu)
+
+</div>
 
 ---
 
