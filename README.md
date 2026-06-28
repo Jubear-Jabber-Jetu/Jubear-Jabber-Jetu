@@ -4,7 +4,7 @@
 
 ## I design test engineering that delivers confidence — fast.
 
-**QA Lead| Senior QA Engineer | Test Automation Architect | SDET**
+**QA Lead | Senior QA Engineer | Test Automation Architect | SDET**
 
 </div>
 
