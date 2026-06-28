@@ -12,7 +12,7 @@
 
 ## Summary
 
-I deliver pragmatic, scalable test automation and quality engineering that shortens release cycles, reduces escaped defects, and makes development teams more confident. With 3+ years crafting frameworks and leading quality initiatives, I specialize in building trust through intelligent test design, CI/CD-first orchestration, and data-driven insights.
+I deliver pragmatic, scalable test automation and quality engineering that shortens release cycles, reduces escaped defects, and makes development teams more confident. With nearly 4 years of professional experience crafting frameworks and leading quality initiatives, I specialize in building trust through intelligent test design, CI/CD-first orchestration, and data-driven insights.
 
 - Strengths: automation architecture, API & contract testing, CI/CD-first test orchestration, data-driven quality, mentoring and process improvement.
 - Outcomes-focused: I measure impact — faster verification, fewer regressions, and lower maintenance cost.
